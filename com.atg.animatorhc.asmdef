@@ -1,0 +1,14 @@
+{
+    "name": "com.atg.animatorhc",
+    "rootNamespace": "ATGAnimatorHC",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

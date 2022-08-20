@@ -1,0 +1,22 @@
+{
+  "name": "com.atg.animatorhc",
+  "version": "0.0.1",
+  "displayName": "Unity Hypercasual Animator Wrapper",
+  "description": "Simple and convenient Unity SO wrapper for working with an Animator from code",
+  "unity": "2021.3",
+  "unityRelease": "8f1",
+  "documentationUrl": "https://github.com/at-grigorievich/Unity-AnimatorHC",
+  "changelogUrl": "https://github.com/at-grigorievich/Unity-AnimatorHC",
+  "licensesUrl": "https://github.com/at-grigorievich/Unity-AnimatorHC",
+  "dependencies": {},
+ "keywords": [
+    "unity animator",
+    "animator",
+    "animator wrapper"
+  ],
+  "author": {
+    "name": "Alexander",
+    "email": "at.grigorievich@gmail.com",
+    "url": "https://github.com/at-grigorievich"
+  }
+}
